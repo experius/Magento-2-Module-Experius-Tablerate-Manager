@@ -1,0 +1,20 @@
+{
+    "name": "experius/tableratemanager",
+    "description": "",
+    "authors": [
+        {
+            "email": "mail@mage2gen",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Experius\\TableRateManager\\": ""
+        }
+    }
+}
